@@ -4,6 +4,7 @@ using Sirenix.OdinInspector;
 using UnityEngine.Events;
 using Cysharp.Threading.Tasks;
 using System.Threading;
+using LazyCoder.Core;
 
 namespace LazyCoder.SceneLoader
 {
