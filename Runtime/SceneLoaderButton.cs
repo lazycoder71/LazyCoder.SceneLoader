@@ -1,4 +1,4 @@
-using LazyCoder.Core;
+using LazyCoder.Gui;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
